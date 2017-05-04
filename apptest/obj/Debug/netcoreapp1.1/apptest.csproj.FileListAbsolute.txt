@@ -1,0 +1,10 @@
+/Users/bmcalister/Documents/blog/dotnet-core-angular-cli-mac/apptest/bin/Debug/netcoreapp1.1/apptest.deps.json
+/Users/bmcalister/Documents/blog/dotnet-core-angular-cli-mac/apptest/bin/Debug/netcoreapp1.1/apptest.runtimeconfig.json
+/Users/bmcalister/Documents/blog/dotnet-core-angular-cli-mac/apptest/bin/Debug/netcoreapp1.1/apptest.runtimeconfig.dev.json
+/Users/bmcalister/Documents/blog/dotnet-core-angular-cli-mac/apptest/bin/Debug/netcoreapp1.1/apptest.dll
+/Users/bmcalister/Documents/blog/dotnet-core-angular-cli-mac/apptest/bin/Debug/netcoreapp1.1/apptest.pdb
+/Users/bmcalister/Documents/blog/dotnet-core-angular-cli-mac/apptest/obj/Debug/netcoreapp1.1/apptest.csprojResolveAssemblyReference.cache
+/Users/bmcalister/Documents/blog/dotnet-core-angular-cli-mac/apptest/obj/Debug/netcoreapp1.1/apptest.csproj.CoreCompileInputs.cache
+/Users/bmcalister/Documents/blog/dotnet-core-angular-cli-mac/apptest/obj/Debug/netcoreapp1.1/apptest.AssemblyInfo.cs
+/Users/bmcalister/Documents/blog/dotnet-core-angular-cli-mac/apptest/obj/Debug/netcoreapp1.1/apptest.dll
+/Users/bmcalister/Documents/blog/dotnet-core-angular-cli-mac/apptest/obj/Debug/netcoreapp1.1/apptest.pdb

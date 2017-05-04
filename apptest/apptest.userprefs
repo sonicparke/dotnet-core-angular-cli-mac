@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{BCD6E8EA-2DFB-4D51-80C0-63724E7AB42B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="client/.angular-cli.json">
+    <Files>
+      <File FileName="Startup.cs" Line="1" Column="1" />
+      <File FileName="client/.angular-cli.json" Line="9" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.apptest PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

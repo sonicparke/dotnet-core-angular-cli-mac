@@ -1,0 +1,10 @@
+/Users/bmcalister/Documents/blog/dotnet-core-angular-cli-mac/dotnet-test/dotnet-test/bin/Debug/netcoreapp1.1/dotnet-test.deps.json
+/Users/bmcalister/Documents/blog/dotnet-core-angular-cli-mac/dotnet-test/dotnet-test/bin/Debug/netcoreapp1.1/dotnet-test.runtimeconfig.json
+/Users/bmcalister/Documents/blog/dotnet-core-angular-cli-mac/dotnet-test/dotnet-test/bin/Debug/netcoreapp1.1/dotnet-test.runtimeconfig.dev.json
+/Users/bmcalister/Documents/blog/dotnet-core-angular-cli-mac/dotnet-test/dotnet-test/bin/Debug/netcoreapp1.1/dotnet-test.dll
+/Users/bmcalister/Documents/blog/dotnet-core-angular-cli-mac/dotnet-test/dotnet-test/bin/Debug/netcoreapp1.1/dotnet-test.pdb
+/Users/bmcalister/Documents/blog/dotnet-core-angular-cli-mac/dotnet-test/dotnet-test/obj/Debug/netcoreapp1.1/dotnet-test.csprojResolveAssemblyReference.cache
+/Users/bmcalister/Documents/blog/dotnet-core-angular-cli-mac/dotnet-test/dotnet-test/obj/Debug/netcoreapp1.1/dotnet-test.csproj.CoreCompileInputs.cache
+/Users/bmcalister/Documents/blog/dotnet-core-angular-cli-mac/dotnet-test/dotnet-test/obj/Debug/netcoreapp1.1/dotnet-test.AssemblyInfo.cs
+/Users/bmcalister/Documents/blog/dotnet-core-angular-cli-mac/dotnet-test/dotnet-test/obj/Debug/netcoreapp1.1/dotnet-test.dll
+/Users/bmcalister/Documents/blog/dotnet-core-angular-cli-mac/dotnet-test/dotnet-test/obj/Debug/netcoreapp1.1/dotnet-test.pdb
