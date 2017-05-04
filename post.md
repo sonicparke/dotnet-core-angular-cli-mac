@@ -245,9 +245,15 @@ However, this will not run the Angular piece of the app until you build it using
 > ng build
 ```
 
+Now that you've built your Angular app just push the "play" button in Visual Studio and you should see you're default Angular CLI app in the browser!
 
+## Taking Advantage of the CLI Goodness
 
+Since I'm primarily a frontend developer and have gotten used to live browser refresh when making changes, having to run ng build after every change would be time consuming and frustrating. There is good news though! You can still use the CLI just like you did before! You only need to make sure you are in the correct folder.
 
-* ng build will build the frontend to the wwwroot file. This will be the ui that is run when the app is run in VS
-* You can also do dev by starting the app in VS and also running ng serve from within the client folder. This gives you the best of both worlds working with the CLI and your .NET api.
+```shell
+> cd /client
+client> ng serve
+```
 
+You should be able to browse to http://localhost:4200 and build your Angular code just like you always have!
